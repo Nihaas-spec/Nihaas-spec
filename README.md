@@ -1,31 +1,4 @@
-## 👋 Hi, I'm Muhammad Nihaas
 
-**CS student | 4th semester | Building in public**
-
----
-
-### 📌 About Me
-
-| | |
-|---|---|
-| 🔭 **I'm currently working on** | Building my GitHub portfolio, uploading projects from all semesters |
-| 👯 **I'm looking to collaborate on** | Beginner-friendly C++ or electronics projects |
-| 🤝 **I'm looking for help with** | Web development and databases |
-| 🌱 **I'm currently learning** | C++ (OOP), Digital Logic Design, Git |
-| 💬 **Ask me about** | My first semester projects or transistor circuits |
-| ⚡ **Fun fact** | I passed my driving license test on the first try (Pakistan) |
-
----
-
-### 📂 My Projects
-
-| Semester | Project | Technology |
-|:--------:|---------|------------|
-| **1st** | Traffic Light Learning System | C++ (Procedural) |
-| **2nd** | Telephone Directory System | C++ (OOP) |
-| **2nd** | Water Level Detection System | Electronics (Transistors/LEDs) |
-
----
 
 *"Building one project at a time."*
 
