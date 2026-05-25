@@ -27,13 +27,6 @@
 
 ---
 
-### 🔗 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Nihaas--spec-181717?style=flat-square&logo=github)](https://github.com/Nihaas-spec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Nihaas-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammad-nihaas-7ab36a333)
-
----
-
 *"Building one project at a time."*
 
 ## 🌐 Socials:
