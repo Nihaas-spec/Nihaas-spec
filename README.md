@@ -1,4 +1,4 @@
-# 👋 Muhammad Nihaas
+# 👋 Muhammad Nihaas Bhatti
 
 **CS student | 4th semester | Building in public**
 
