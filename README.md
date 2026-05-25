@@ -1,4 +1,32 @@
+# 👋 Muhammad Nihaas
 
+**CS student | 4th semester | Building in public**
+
+---
+
+## About Me
+
+I'm a Computer Science student documenting my learning journey. Every project in my GitHub represents a step forward — from first semester basics to more complex systems.
+
+| | |
+|---|---|
+| 🔭 **Currently** | Building my GitHub portfolio |
+| 🤝 **Open to** | Collaborating on C++ or electronics projects |
+| 📚 **Learning** | Web development & databases |
+| 💡 **Ask me** | About C++, OOP, or transistor circuits |
+| 🎯 **Fun fact** | Passed my driving license test first try (Pakistan) |
+
+---
+
+## My Projects
+
+| Semester | Project | Stack |
+|:--------:|---------|-------|
+| 1st | Traffic Light Learning System | C++ |
+| 2nd | Telephone Directory System | C++ (OOP) |
+| 2nd | Water Level Detection System | Electronics |
+
+---
 
 *"Building one project at a time."*
 
