@@ -1,6 +1,40 @@
-# 💫 About Me:
-## 👋 Hi, I'm Muhammad Nihaas <br><br>CS student | 4th semester | Building in public<br><br>### 📌 About Me<br><br>- 🔭 **I'm currently working on** — Building my GitHub portfolio, uploading projects from all semesters<br>- 👯 **I'm looking to collaborate on** — Beginner-friendly C++ or electronics projects<br>- 🤝 **I'm looking for help with** — Web development and databases<br>- 🌱 **I'm currently learning** — C++ (OOP), Digital Logic Design, Git<br>- 💬 **Ask me about** — My first semester projects or transistor circuits<br>- ⚡ **Fun fact** — I passed my driving license test on the first try<br><br>### 📂 My Projects<br><br>| Semester | Project | Tech |<br>|----------|---------|------|<br>| 1st | Traffic Light Learning System | C++ (Procedural) |<br>| 2nd | Telephone Directory System | C++ (OOP) |<br>| 2nd | Water Level Detection System | Electronics (Transistors/LEDs) |<br><br>### 🔗 Connect with me<br><br>- GitHub: [github.com/Nihaas-spec](https://github.com/Nihaas-spec)<br>- LinkedIn: [linkedin.com/in/muhammad-nihaas-7ab36a333](https://linkedin.com/in/muhammad-nihaas-7ab36a333)<br><br>---<br><br>*"Building one project at a time."*
+## 👋 Hi, I'm Muhammad Nihaas
 
+**CS student | 4th semester | Building in public**
+
+---
+
+### 📌 About Me
+
+| | |
+|---|---|
+| 🔭 **I'm currently working on** | Building my GitHub portfolio, uploading projects from all semesters |
+| 👯 **I'm looking to collaborate on** | Beginner-friendly C++ or electronics projects |
+| 🤝 **I'm looking for help with** | Web development and databases |
+| 🌱 **I'm currently learning** | C++ (OOP), Digital Logic Design, Git |
+| 💬 **Ask me about** | My first semester projects or transistor circuits |
+| ⚡ **Fun fact** | I passed my driving license test on the first try (Pakistan) |
+
+---
+
+### 📂 My Projects
+
+| Semester | Project | Technology |
+|:--------:|---------|------------|
+| **1st** | Traffic Light Learning System | C++ (Procedural) |
+| **2nd** | Telephone Directory System | C++ (OOP) |
+| **2nd** | Water Level Detection System | Electronics (Transistors/LEDs) |
+
+---
+
+### 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nihaas--spec-181717?style=flat-square&logo=github)](https://github.com/Nihaas-spec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Nihaas-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammad-nihaas-7ab36a333)
+
+---
+
+*"Building one project at a time."*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/say_me_nihaas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-nihaas-7ab36a333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mh Nihaas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhnihaas@gmail.com) 
