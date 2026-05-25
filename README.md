@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 Hi, I'm Muhammad Nihaas <br><br>CS student | 4th semester | Building in public<br><br>### 📌 About Me<br><br>- 🔭 **I'm currently working on** — Building my GitHub portfolio, uploading projects from all semesters<br>- 👯 **I'm looking to collaborate on** — Beginner-friendly C++ or electronics projects<br>- 🤝 **I'm looking for help with** — Web development and databases<br>- 🌱 **I'm currently learning** — C++ (OOP), Digital Logic Design, Git<br>- 💬 **Ask me about** — My first semester projects or transistor circuits<br>- ⚡ **Fun fact** — I passed my driving license test on the first try<br><br>### 📂 My Projects<br><br>| Semester | Project | Tech |<br>|----------|---------|------|<br>| 1st | Traffic Light Learning System | C++ (Procedural) |<br>| 2nd | Telephone Directory System | C++ (OOP) |<br>| 2nd | Water Level Detection System | Electronics (Transistors/LEDs) |<br><br>### 🔗 Connect with me<br><br>- GitHub: [github.com/Nihaas-spec](https://github.com/Nihaas-spec)<br>- LinkedIn: [linkedin.com/in/muhammad-nihaas-7ab36a333](https://linkedin.com/in/muhammad-nihaas-7ab36a333)<br><br>---<br><br>*"Building one project at a time."*
 
-<!--
-**Nihaas-spec/Nihaas-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/say_me_nihaas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-nihaas-7ab36a333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mh Nihaas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhnihaas@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nihaas-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nihaas-spec&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nihaas-spec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nihaas-spec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nihaas-spec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Nihaas-spec&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
